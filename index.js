@@ -134,8 +134,7 @@ window.speechSynthesis.speak(speech);
 }
 
 // Text to be spoken automatically
-var textToSpeak = "Hello, world! This is an automatic text-to-speech example.";
-
+var textToSpeak = " HELLO ! I'M SEJA.Introduction.Seja Menath epitomizes tech innovation, blending machine learning prowess with web development finesse. With an insatiable thirst for knowledge, she relentlessly explores new frontiers, pushing boundaries. Yet, her journey isn't just about mastering tech; it's about impactful solutions. Seja's resilience in adversity sets her apart, viewing setbacks as stepping stones to success. In her hands, technology becomes a tool for positive change, revolutionizing healthcare, optimizing supply chains, and empowering communities. As she charts her course, Seja embodies the future of tech—a trailblazer defining innovation and impact. Wherever her journey leads, innovation and impact follow, shaping a brighter tomorrow.About Seja Menath .Welcome to the online portfolio of Seja Menath, a dynamic Machine Learning (ML) engineer and adept web developer hailing from the vibrant backdrop of Sri Lanka. Despite being just 20 years old, I've showcased exceptional proficiency in both domains, highlighted by an array of projects and achievements. This portfolio website serves as a gateway to my expertise, creativity, and unwavering commitment to the realm of technology. Explore and discover how my passion translates into tangible solutions and groundbreaking innovations that shape the future.";
 // Call the speak function when the page loads
 window.onload = function() {
 speak(textToSpeak);
